@@ -1,6 +1,6 @@
 # Spoon - AI Document Analyzer
 
-<img width="1891" height="937" alt="image" src="https://github.com/user-attachments/assets/363eb894-18c3-4a7b-be13-c161c99bd325" />
+<img width="1892" height="937" alt="image" src="https://github.com/user-attachments/assets/9054c82d-2d58-482a-8e27-2fb9d1c6eb60" />
 
 Spoon is a lightweight AI-powered tool that analyzes documents and GitHub repositories to extract key insights and technical information.
 
@@ -26,18 +26,23 @@ Spoon is a lightweight AI-powered tool that analyzes documents and GitHub reposi
    git clone https://github.com/chinni-03/spoon.git
    cd spoon
    ```
+2. Create a .env file in the project root and add your API key:
+   ```bash
+   PRIVATE_GEMINI_API_KEY=your_google_generative_ai_server_api_key
+   ```
+   > ⚠️ <i>Important: Use the Server API key from Google AI Studio or Google Cloud Console, and make sure the Generative Language API is enabled for your project.</i>
 
-2. Install dependencies:
+3. Install dependencies:
    ```bash
    npm install
    ```
 
-3. Start the development server:
+4. Start the development server:
    ```bash
    npm run dev
    ```
 
-4. Open in your browser:
+5. Open in your browser:
    ```text
    http://localhost:5173
    ```
