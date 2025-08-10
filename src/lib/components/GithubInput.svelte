@@ -1,4 +1,3 @@
-<!-- GithubInput.svelte -->
 <script>
   import { createEventDispatcher } from 'svelte';
   
