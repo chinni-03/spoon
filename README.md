@@ -1,6 +1,6 @@
 # Spoon - AI Document Analyzer
 
-<img width="1892" height="937" alt="image" src="https://github.com/user-attachments/assets/9054c82d-2d58-482a-8e27-2fb9d1c6eb60" />
+<img width="1894" height="942" alt="image" src="https://github.com/user-attachments/assets/2b89112b-0b1b-4241-b5d5-24d11169c139" />
 
 Spoon is a lightweight AI-powered tool that analyzes documents and GitHub repositories to extract key insights and technical information.
 
